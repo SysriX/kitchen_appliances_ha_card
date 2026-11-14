@@ -1,5 +1,9 @@
 # Kitchen Appliances Card
 
+![Kitchen Appliances Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant).*
+
 Lovelace card (`custom:home-twin-kuechengeraete-card`) for a kitchen tablet: a swipeable carousel with one page per smart appliance. Swipe (or tap ‹ › / the dots) to browse. A running or finished appliance can be shown automatically.
 
 UI language: German.
